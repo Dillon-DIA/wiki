@@ -374,6 +374,16 @@ module.exports = {
                 "tools/oracles/bandstandarddataset",
               ],
             },
+            {
+              type: "category",
+              label: "DIA Oracles",
+              link: {
+                type: "generated-index",
+              },
+              items: [
+                "tools/oracles/DIA",
+              ],
+            },
             "tools/oracles/chainlink",
             "tools/oracles/optimisticoracle",
             "tools/oracles/razor",
